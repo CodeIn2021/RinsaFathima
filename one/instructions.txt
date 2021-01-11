@@ -1,0 +1,7 @@
+1. open terminal or command prompt
+2. type
+
+   python3 two.py
+
+   and press enter
+3. input the encoded message
